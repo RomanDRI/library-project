@@ -16,7 +16,7 @@
         <module>order-service</module>
         <module>booking-service</module>
         <module>payment-service</module>
-        <module>saga</module>
+        <module>saga-orchestrator</module>
     </modules>
 
     <parent>
